@@ -7,6 +7,6 @@ Listing on nopCommerce "extensions and themes" catalog: [https://www.nopcommerce
 
 
 
-Avalara site: [https://avlr.co/3bw9ixk](http://www.avalara.com/)
+Avalara site: [http://www.avalara.com/](https://avlr.co/3bw9ixk)
 
 Avalara APIs: [http://developer.avalara.com/](http://developer.avalara.com/)
